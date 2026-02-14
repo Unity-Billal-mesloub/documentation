@@ -6,12 +6,12 @@
   The documentation system for modern JavaScript
 </p>
 
-[![Circle CI](https://circleci.com/gh/documentationjs/documentation/tree/master.svg?style=shield)](https://circleci.com/gh/documentationjs/documentation/tree/master)
+[![Circle CI](https://circleci.com/gh/documentationjs/documentation/tree/main.svg?style=shield)](https://circleci.com/gh/documentationjs/documentation/tree/master)
 [![npm version](https://badge.fury.io/js/documentation.svg)](http://badge.fury.io/js/documentation)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/documentationjs/documentation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Inline docs](http://inch-ci.org/github/documentationjs/documentation.svg?branch=master&style=flat-square)](http://inch-ci.org/github/documentationjs/documentation)
 
-[:date: Current maintenance status](https://github.com/documentationjs/documentation/wiki/Current-maintenance-status)
+[:date: Current maintenance status](https://github.com/Unity-Billal-mesloub/documentation/wiki/Current-maintenance-status)
 
 - Supports modern JavaScript: ES5, ES2017, JSX, Vue and [Flow](https://flow.org/) type annotations.
 - Infers parameters, types, membership, and more. Write less documentation: let the computer write it for you.
@@ -21,7 +21,7 @@
 ## Examples
 
 - [HTML output with default template](https://documentation.js.org/html-example/)
-- [Markdown](https://github.com/documentationjs/documentation/blob/master/docs/NODE_API.md)
+- [Markdown](https://github.com/Unity-Billal-mesloub/documentation/blob/main/docs/NODE_API.md)
 - [JSON](https://documentation.js.org/html-example/index.json)
 
 ## Documentation
@@ -34,7 +34,7 @@
 - [FAQ](docs/FAQ.md)
 - [Troubleshooting](docs/TROUBLESHOOTING.md)
 - [Theming](docs/THEMING.md): tips for theming documentation output in HTML
-- [See also](https://github.com/documentationjs/documentation/wiki/See-also): a list of projects similar to documentation.js
+- [See also](https://github.com/Unity-Billal-mesloub/documentation/wiki/See-also): a list of projects similar to documentation.js
 
 ## User Guide
 
@@ -86,7 +86,7 @@ Options:
 ## [Contributing](CONTRIBUTING.md)
 
 _We have plenty of
-[issues](https://github.com/documentationjs/documentation/issues) that we'd
+[issues](https://github.com/Unity-Billal-mesloub/documentation/issues) that we'd
 love help with._
 
 - Robust and complete `JSDoc` support, including typedefs.
